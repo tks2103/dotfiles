@@ -1,0 +1,10 @@
+[color]
+	ui = true
+[color "status"]
+  header = blue
+	branch = magenta
+[color "diff"]
+	meta = blue
+[user]
+	name = Tanoy Sinha
+	email = tsinha@gmail.com
