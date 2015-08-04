@@ -22,3 +22,7 @@ let mapleader=','
 
 map <leader>w :%s/\s\+$//e<CR>
 set listchars=tab:▸\ ,trail:▪
+
+set backupdir=~/.vim/backup//
+set directory=~/.vim/swap//
+set undodir=~/.vim/undo//
