@@ -1,0 +1,2 @@
+settings set frame-format "#${frame.index} : \x1b\x5b36m${function.name-without-args}\x1b\x5b39m at ${line.file.basename}:${line.number}\n"
+
