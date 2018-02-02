@@ -10,3 +10,5 @@
 	email = tsinha@gmail.com
 [core]
 	excludesfile = /Users/tsinha/.gitignore
+[grep]
+  linenumber = true

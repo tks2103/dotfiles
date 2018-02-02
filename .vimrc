@@ -14,6 +14,8 @@ colorscheme solarized
 nnoremap tn :tabn<CR>
 nnoremap tp :tabp<CR>
 nnoremap te :tabe<Space>
+nnoremap bp :bp<CR>
+nnoremap bn :bn<CR>
 
 let mapleader=','
 
@@ -30,4 +32,5 @@ set showtabline=2
 call plug#begin()
 Plug 'wincent/command-t'
 Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'tpope/vim-fugitive'
 call plug#end()
